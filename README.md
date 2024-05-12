@@ -59,8 +59,10 @@ To run DataBrain AI locally or deploy it to a production server, follow the inst
 ## Setup
 
 1. Clone the repository:
-   git clone <repository_url>
+``` Git
+   git clone https://github.com/nuelScript/dataBrain-ai/
    cd <repository_directory>
+```
 
 2. Install dependencies:
 
@@ -74,7 +76,9 @@ To run DataBrain AI locally or deploy it to a production server, follow the inst
 
 To start the development server, run the following command:
 
-npm run dev
+``` node
+   npm run dev
+```
 
 Visit `http://localhost:3000` in your web browser to access DataBrain AI.
 
